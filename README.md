@@ -1,9 +1,13 @@
-# socially_app_flutter_ui
+# Social Media App Flutter UI
 
-A new Flutter project.
+**Design Credit:** https://www.pixeltrue.com/free-ui-kits/social-media-app
 
-## Getting Started
+<p align="center">
+  <img alt="sergey" src="app_preview.gif">
+</p>
 
+Get started
+===========
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
@@ -14,3 +18,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+License
+=======
+Sourcerer is under the MIT license. See the [LICENSE](https://github.com/sourcerer-io/sourcerer-app/blob/develop/LICENSE.md) for more information.
